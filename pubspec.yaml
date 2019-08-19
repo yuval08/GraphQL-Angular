@@ -1,0 +1,19 @@
+name: graphql_angular
+description: A starting point for Dart libraries or applications.
+# version: 1.0.0
+# homepage: https://www.example.com
+# author: yuval <yuval.lerner@beonesolutions.com>
+
+environment:
+  sdk: '>=2.4.0 <3.0.0'
+
+dependencies:
+  json_annotation:
+  http:
+  meta:
+
+dev_dependencies:
+  build_runner:
+  json_serializable:
+  pedantic: ^1.7.0
+  test: ^1.6.0
